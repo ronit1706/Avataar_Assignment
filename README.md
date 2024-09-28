@@ -34,7 +34,7 @@ This readme file is written to explain the features and usage to the recruiters 
    Upon running, you'll be prompted to choose an image
    Enter your image path to continue
 
-   <em>On google colab/local, you can add your own image<\em>
+   <em>On google colab/local, you can add your own image </em>
    
 4. **Specify the Object to Move**
 
@@ -103,7 +103,12 @@ This readme file is written to explain the features and usage to the recruiters 
    The final image with the relocated object will be saved as `final_image_with_subject.png` in the working directory; additionally, intermediate steps are visualized for better understanding
 
 
-2. **Select an Image**
+## Why you Should Hire me at Avataar
 
-   Upon running, you'll be prompted to choose an image:
+This project has been an incredible journey through the world of machine learning! Working on this tool to move objects allowed me to dive deep into exciting technologies like YOLOv3 and SAM.
+
+I believe my hands-on experience with these advanced models and my passion for creative problem-solving make me a fantastic fit for Avataar. I’m all about turning complex challenges into seamless solutions, just like this project, along with all the other projects i have worked at (Do check them, now that you are on my github profile)
+
+So, if you’re looking for someone who can bring enthusiasm and innovation to your team, look no further! Let’s create some amazing AI experiences together!
+
    
