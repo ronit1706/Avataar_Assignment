@@ -110,10 +110,11 @@ Image 4: Puppy.jpeg[Using V2]<br>
 
 ## Why you Should Hire me at Avataar
 
-This project has been an incredible journey through the world of machine learning! Working on this tool to move objects allowed me to dive deep into exciting technologies like YOLOv3, GroundingDINO and SAM. I came across many issues during the completion of this project, but was able to breeze past all of them, using help from stackoverflow, github issues, and some guidance from Harsh Maheshwari Sir.
+This project has been an incredible journey through the world of machine learning! Working on this tool to move objects allowed me to dive deep into exciting technologies like YOLOv3, GroundingDINO, SAM and StableDiffusion. I came across many issues during the completion of this project, but was able to breeze past all of them, using help from stackoverflow, github issues, and some guidance from Harsh Maheshwari Sir.
 
 I believe my hands-on experience with these advanced models and my passion for creative problem-solving make me a fantastic fit for Avataar. I’m all about turning complex challenges into seamless solutions, just like this project, along with all the other projects i have worked at (Do check them, now that you are on my github profile)
 
-So, if you’re looking for someone who can bring enthusiasm and innovation to your team, look no further! Let’s create some amazing AI experiences together!
+So, if you’re looking for someone who can bring enthusiasm and innovation to your team, look no further! 
+I'm looking forward to working on such technology and contributing to such projects. Let’s create something amazing together!
 
    
