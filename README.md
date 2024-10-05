@@ -1,5 +1,7 @@
 # Object Mover (Avataar Assignment)
 
+
+
 Please Use Avataar_Assignment_New instead of Avataar_Assignment
 and preferably run on kaggle notebooks for seamless connection to dataset
 containing given example images and some weights (pth files)
@@ -18,6 +20,9 @@ The Object Mover is an innovative tool designed for effortless image manipulatio
 <br><br>
 <b>
 This readme file is written to explain the features and usage to the recruiters at Avataar. Thanks for checking my assignment out. Hope you like it!
+
+Complete code runs, and works to achieve moving an object flawlessly on my end<br>
+If any part of my code does not run/displays an error/fails due to data not being present, please reach me at ronitkhurana391@gmail.com. Thanks
 </b>
 
 ## Features
@@ -64,6 +69,44 @@ This readme file is written to explain the features and usage to the recruiters 
 - **OpenCV** For image processing and manipulation
 - **NumPy** For efficient numerical operations on matrices
 - **Matplotlib** For displaying/plotting images for immediate visualization
+
+
+## Results (Input and Output images)
+These result include all example images given in the assignment, along with some other images I used to test the code out.
+
+
+
+Image 1: Bagpack.jpeg[Using V1]<br> 
+
+<img src = "https://github.com/user-attachments/assets/c6b16c6a-6c5b-46d9-907a-286e688aa091" width="300">
+
+<img src = "https://github.com/user-attachments/assets/1ae82c71-1716-4b44-8a04-64364c817f10" width="300">
+
+
+
+<br>
+
+Image 2: Wall Hanging.jpeg[Using V2]<br>
+
+<img src="https://github.com/user-attachments/assets/4ae2a3d0-616d-40d8-b8cc-27ade0916ba6" width="300">
+<img src="https://github.com/user-attachments/assets/915ef3d7-c9bb-4cc9-969f-41296506caf9" width="300">
+
+<br>
+
+Image 3: Stool.jpeg[Using V2]<br>
+
+<img src = "https://github.com/user-attachments/assets/e648a906-3f92-4551-8549-7f2a61ca0710" width="300">
+<img src = "https://github.com/user-attachments/assets/0f0002a4-462a-4063-9288-ea1c419c1376" width="300">
+
+<br>
+
+Image 4: Puppy.jpeg[Using V2]<br>
+<img src = "https://github.com/user-attachments/assets/eeb974db-1e5c-4cc0-a342-69e1794ed07c" width="300">
+<img src = "https://github.com/user-attachments/assets/ff86d9e5-a083-4b87-a7fc-086b5966a379" width="300">
+
+<br>
+
+
 
 ## Why you Should Hire me at Avataar
 
